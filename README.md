@@ -1,2 +1,6 @@
-# GoogleBigQuery_Apache-Hive_Spark
- 🧊 Getting big data with Google BigQuery with Spark and Apache Hive
+# Google Cloud Platform Project
+ 🧊 Getting big data with:
+ ### Storage Bucket
+ ### Compute Engine API
+ ### Dataproc (Apache Hadoop and Spark)
+ ### BigQuery
